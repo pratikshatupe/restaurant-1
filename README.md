@@ -1,10 +1,10 @@
 # Cafe project
-###A web-based cafe managment system built with html and css.
+A web-based cafe managment system built with html and css.
 
 ## Table Content
-1.#Overview
-2.#Features
-3.#technolgies-used
+1.Overview
+2.Features
+3.technolgies-used
 
 # Overview
 
@@ -19,24 +19,24 @@ This project aims to create a comprehensive cafe management system, enabling caf
 - Reporting and analytics
 
 
-#Technologies Used
+# Technologies Used
 
 - HTML/CSS (frontend)
 
 
-#Installation
+# Installation
 
 1. Clone the repository: `git clone (link unavailable)
 2. Install dependencies: mvn install
 
 
 
-#Usage
+# Usage
 
 1. Explore features and functionality
 
 
-#Contributing
+# Contributing
 
 Contributions are welcome! Please submit a pull request with your changes.
 
